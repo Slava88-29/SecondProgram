@@ -27,3 +27,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### Ignore Doc ###
+.idea/
+out/
+*iml
